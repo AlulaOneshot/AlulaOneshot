@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yo, I'm Alula
+## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects.
 
-<!--
-**AlulaOneshot/AlulaOneshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Languages
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+# Operating Systems I've used
+[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,apple)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Software
+[![My Skills](https://skillicons.dev/icons?i=codepen,git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,deno,nodejs)](https://skillicons.dev)
+
+# My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=applepiecodes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+'Help I took my 2DS apart and can't put it back together' - Alula, 2023
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=applepiecodes&theme=merko&custom_title=Report%20Card)<br>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApplePieCodes&theme=merko&custom_title=Time%20Wasted)<br>
+
+<a href="https://music.youtube.com/playlist?list=PLXRPSzuu_0Cx_l1vamoN4oe7GPlTEuCmC&si=zEW5pWBrZJlOzlEq">My music playlist if anyone wants it.</a>
