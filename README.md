@@ -1,4 +1,4 @@
-# Yo, I'm Alula
+# Yo, I'm Alula (formerly @ApplePieCodes)
 ## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects.
 
 # My Languages
