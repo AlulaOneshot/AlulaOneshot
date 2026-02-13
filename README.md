@@ -1,14 +1,11 @@
 # Yo, I'm Alula (formerly @ApplePieCodes)
 ## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects.
 
-# My Languages
-[![My Languages](https://skillicons.dev/icons?i=c,cpp,cs,css,py,rust,html,js,ts,svelte)](https://skillicons.dev)
-
 # Operating Systems I've used
-[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,apple)](https://skillicons.dev)
+[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,apple,nix)](https://skillicons.dev)
 
-# My Software
-[![My Skills](https://skillicons.dev/icons?i=codepen,git,github,neovim,robloxstudio,sublime,unity,unreal,visualstudio,vscode,deno,nodejs)](https://skillicons.dev)
+# Learned Skills
+[![Learned Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,css,codepen,deno,firebase,git,github,html,idea,js,linux,md,nix,npm,nuxt,python,rider,rust,solidjs,supabase,svelte,tailwind,tauri,ts,vscode,vite,vue)](https://skillicons.dev)
 
 'Help I took my 2DS apart and can't put it back together' - Alula, 2023
 
