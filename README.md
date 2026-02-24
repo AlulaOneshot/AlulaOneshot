@@ -2,10 +2,13 @@
 ## I make stuff becuase what else would a neurodivergent person do with their time. I work on a lot of projects.
 
 # Operating Systems I've used
-[![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,apple,nix)](https://skillicons.dev)
+![Operating Systems I've used](https://skillicons.dev/icons?i=arch,linux,windows,mint,apple,nix)](https://skillicons.dev)
 
 # Learned Skills
-[![Learned Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,css,codepen,deno,firebase,git,github,html,idea,js,linux,md,nix,npm,nuxt,python,rider,rust,solidjs,supabase,svelte,tailwind,tauri,ts,vscode,vite,vue)](https://skillicons.dev)
+![Learned Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,css,codepen,deno,firebase,git,github,html,idea,js,linux,md,nix,npm,nuxt,python,rider,rust,solidjs,supabase,svelte,tailwind,tauri,ts,vscode,vite,vue)](https://skillicons.dev)
+
+# Stats
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=29138&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 'Help I took my 2DS apart and can't put it back together' - Alula, 2023
 
